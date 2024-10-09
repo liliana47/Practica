@@ -1,0 +1,10 @@
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Vista\bin\Debug\Vista.exe.config
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Vista\bin\Debug\Vista.exe
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Vista\bin\Debug\Vista.pdb
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Vista\obj\Debug\Vista.exe
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Vista\obj\Debug\Vista.pdb
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Vista\bin\Debug\Logica.dll
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Vista\bin\Debug\Logica.pdb
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Vista\obj\Debug\Vista.csproj.Up2Date

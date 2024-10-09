@@ -1,0 +1,6 @@
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Logica\bin\Debug\Logica.dll
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Logica\bin\Debug\Logica.pdb
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Logica\obj\Debug\Logica.dll
+C:\Users\ESTUDIANTES\source\repos\Ciudades\Logica\obj\Debug\Logica.pdb
